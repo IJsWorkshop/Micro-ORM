@@ -10,8 +10,8 @@
 
 | Feature |              Description              |
 | ------- | ------------------------------------- |
-|  Read   | Request information from the Database |
-| Update  | Update data                           |
+|  Read   | Request information from a table      |
+| Update  | Update a record                       |
 | Insert  | Insert a record                       |
 | Delete  | Delete a record                       |
 
