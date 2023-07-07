@@ -1,12 +1,11 @@
 # Micro-ORM
 
 <summary>Basic micro object relationship mapping tool.</summary>
-
 <summary>This was created as a learning tool to help understand and simplify the use of requesting and modifying a database.</summary>
-
 <summary>There are much better ORM's out there for example use Dapper, Entity Framework the list goes on.</summary>
-
 <summary>Supports basic querying of the database and CRUD features.</summary>
+
+<p></p>
 
 | Feature |              Description              |
 | ------- | ------------------------------------- |
@@ -14,6 +13,8 @@
 | Update  | Update a record                       |
 | Insert  | Insert a record                       |
 | Delete  | Delete a record                       |
+
+
 
 <summary>If you want simple then this is the tool for you.</summary>
 
